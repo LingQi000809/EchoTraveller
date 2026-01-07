@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4b7cd56d0b8e0947a5c5ec43f154991, type: 3}
+  m_Name: MayorBattleData
+  m_EditorClassIdentifier: Assembly-CSharp::BattleSceneData
+  backgroundSprite: {fileID: 21300000, guid: a6686e6bbcef5234fab5d2272153efae, type: 3}
+  enemyAnimatorController: {fileID: 0}
+  enemySprite: {fileID: 424029022547934153, guid: 582fa5c4216374eb39c03b6de8c488a9, type: 3}
+  enemyName: Mayor
+  enemyMaxHP: 100
+  enemyMinDamage: 20
+  enemyMaxDamage: 30
+  enemyProjectileSprite: {fileID: 0}
+  enemyProjectileDamage: 10
+  enemyMoveSpeed: 2
+  enemyProjectileSpeed: 5
+  enemyAttackInterval: 2
+  playerMaxHP: 100
+  playerMoveSpeed: 5
+  playerRayDamage: 20
+  arenaBoundsMin: {x: -8, y: -4}
+  arenaBoundsMax: {x: 8, y: 4}
+  enemyMinDistanceFromPlayer: 3
+  ascendingMinDamage: 45
+  ascendingMaxDamage: 60
+  descendingMinDamage: 30
+  descendingMaxDamage: 40
+  stableMinDamage: 10
+  stableMaxDamage: 20

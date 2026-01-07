@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1ac7df723e6ca4afaa25b127a3e4f307
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: fdeb3f88d08262349a273cebdd343d57, type: 3}
+  paletteGridFoldout: 1
+  textureSourcesFoldout: 1
+  spriteAtlasSettingsFoldout: 0
